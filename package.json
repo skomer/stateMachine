@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "xstate": "^3.2.1"
+    "xstate": "^3.3.1"
   }
 }
